@@ -1,0 +1,67 @@
+class_label,red,green,blue,Class_Names
+0,165,42,42,bird
+1,0,192,0,ground animal
+2,196,196,196,curb
+3,190,153,153,fence
+4,180,165,180,guard rail
+5,90,120,150,barrier
+6,102,102,156,wall
+7,128,64,255,bike lane
+8,140,140,200,crosswalk - plain
+9,170,170,170,curb cut
+10,250,170,160,parking
+11,96,96,96,pedestrian area
+12,230,150,140,rail track
+13,128,64,128,road
+14,110,110,110,service lane
+15,244,35,232,sidewalk
+16,150,100,100,bridge
+17,70,70,70,building
+18,150,120,90,tunnel
+19,220,20,60,person
+20,255,0,0,bicyclist
+21,255,0,100,motorcyclist
+22,255,0,200,other rider
+23,200,128,128,lane marking - crosswalk
+24,255,255,255,lane marking - general
+25,64,170,64,mountain
+26,230,160,50,sand
+27,70,130,180,sky
+28,190,255,255,snow
+29,152,251,152,terrain
+30,107,142,35,vegetation
+31,0,170,30,water
+32,255,255,128,banner
+33,250,0,30,bench
+34,100,140,180,bike rack
+35,220,220,220,billboard
+36,220,128,128,catch basin
+37,222,40,40,cctv camera
+38,100,170,30,fire hydrant
+39,40,40,40,junction box
+40,33,33,33,mailbox
+41,100,128,160,manhole
+42,142,0,0,phone booth
+43,70,100,150,pothole
+44,210,170,100,street light
+45,153,153,153,pole
+46,128,128,128,traffic sign frame
+47,0,0,80,utility pole
+48,250,170,30,traffic light
+49,192,192,192,traffic sign (back)
+50,220,220,0,traffic sign (front)
+51,140,140,20,trash can
+52,119,11,32,bicycle
+53,150,0,255,boat
+54,0,60,100,bus
+55,0,0,142,car
+56,0,0,90,caravan
+57,0,0,230,motorcycle
+58,0,80,100,on rails
+59,128,64,64,other vehicle
+60,0,0,110,trailer
+61,0,0,70,truck
+62,0,0,192,wheeled slow
+63,32,32,32,car mount
+64,120,10,10,ego vehicle
+65,0,0,0,unlabeled]
