@@ -14,14 +14,14 @@ The primary objective of the project was to enhance the safety and independence 
 
 ## Table of Contents
 
-1. Introduction
-2. Features
-3. Installation
-4. Requirements
-5. Usage
-6. Depth Estimation
-7. Optical Flow
-8. Code Structure
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Requirements](#requirements)
+5. [Usage](#usage)
+6. [Depth Estimation](#depth-estimation)
+7. [Optical Flow](#optical-flow)
+8. [Code Structure](#code-structure)
 
 ### Introduction
 
