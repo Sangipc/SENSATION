@@ -8,7 +8,7 @@ The primary objective of the project was to enhance the safety and independence 
 * Depth Estimation
 * Optical Flow
 * Drift Detection
-* HPC
+* High Performance Computing
 * Computer Vision
 * Visual Impairment Assistance
 
