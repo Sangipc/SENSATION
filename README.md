@@ -112,11 +112,19 @@ To run the depth estimation module:
   
       The processed output videos will be saved in Final_Folder/Output_Video.
 
+     
+**Example depth maps:**
+
+![image1](https://github.com/user-attachments/assets/06cbb3d2-438d-4920-a960-3f438f8d0bee)        ![image1](https://github.com/user-attachments/assets/33cc022a-d77f-4866-bb12-e5d9f2d93563)
+
+
 #### Optical Flow
 
 To run the optical flow analysis:
   
-  ``` cd **Experiment_optical_flow** ```
+  ``` 
+  cd Experiment_optical_flow
+  ```
   
   ```
   python main.py --input /path/to/video.mp4 --output /path/to/output_folder --model_path /path/to/segmentation_model --separate
